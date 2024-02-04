@@ -1,0 +1,37 @@
+<mxfile host="Electron" modified="2024-01-28T20:01:28.864Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="rGfX8rezHpXfCg9wCVyr" version="22.1.2" type="device">
+  <diagram name="Page-1" id="e_3TfuZC88BE2x0gRFSu">
+    <mxGraphModel dx="1295" dy="626" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3QjaIAm9QxaIMw03w_PY-10" value="Open-access &lt;br&gt;journals" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="384" y="429" width="84" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="3QjaIAm9QxaIMw03w_PY-11" value="SJR journals" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="476" y="431" width="83" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="3QjaIAm9QxaIMw03w_PY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="3QjaIAm9QxaIMw03w_PY-12" target="3QjaIAm9QxaIMw03w_PY-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3QjaIAm9QxaIMw03w_PY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3QjaIAm9QxaIMw03w_PY-12" target="3QjaIAm9QxaIMw03w_PY-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3QjaIAm9QxaIMw03w_PY-12" value="Journal Types" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="338" width="98" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="ze_3klJemIU4LHaJgf4A-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ze_3klJemIU4LHaJgf4A-1" target="3QjaIAm9QxaIMw03w_PY-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ze_3klJemIU4LHaJgf4A-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ze_3klJemIU4LHaJgf4A-1" target="ze_3klJemIU4LHaJgf4A-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ze_3klJemIU4LHaJgf4A-1" value="Papers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="371" y="257" width="98" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="ze_3klJemIU4LHaJgf4A-3" value="Papers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="231" y="257" width="98" height="47" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
